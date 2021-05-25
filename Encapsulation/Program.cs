@@ -2,11 +2,7 @@
 
 namespace Encapsulation_demo
 {
-    class Program
-    {
-        
-        
-            public class Bank
+         public class Bank
         {
             private double balance;
             public double Balance
